@@ -97,3 +97,6 @@ console.log(storedUser.email); // outputs 'john@example.com'
 ```
 
 In summary, localStorage allows you to store key-value pairs locally in the user's browser using localStorage.setItem() and retrieve those values using localStorage.getItem(). However, note that localStorage can only store strings, so you'll need to convert other data types to strings before storing them.
+
+### Site Link
+https://zesty-cassata-7fca87.netlify.app/
